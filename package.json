@@ -1,0 +1,20 @@
+{
+  "name": "unit-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "function.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anand8317/Unit-Test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anand8317/Unit-Test/issues"
+  },
+  "homepage": "https://github.com/Anand8317/Unit-Test#readme"
+}
